@@ -1,1 +1,1 @@
-# python_basics
+# python basic programs
